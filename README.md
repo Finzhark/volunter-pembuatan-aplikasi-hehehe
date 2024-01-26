@@ -7,7 +7,7 @@ Silakan gunakan format berikut:<br>
 
 Berikut adalah daftar Volunter yang diterima:
 * Example Sample, [example.com](https://www.example.com).
-
+* Finza, [GitHub](https://github.com/IniFinza).
 
 <br><br><br><br><br>
 
